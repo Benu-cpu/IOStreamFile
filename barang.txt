@@ -1,0 +1,5 @@
+Laptop Asus;8500000.0;10
+Mouse Wireless;150000.0;25
+Kemeja Flanel;175000.0;40
+Kopi Kemasan;45000.0;100
+Buku Catatan A5;25000.0;50
